@@ -304,7 +304,8 @@ activity_main.xml
 
 ## OUTPUT
 
-<img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/ca2ae622-9e5f-412b-8bd6-2ee93b760338" />
+<img width="992" height="487" alt="image" src="https://github.com/user-attachments/assets/286a13a7-0941-40f5-ada7-28bf3b8dcc4c" />
+
 
 <img width="986" height="486" alt="image" src="https://github.com/user-attachments/assets/13468da5-cb20-4ceb-b779-e6a0c0dd9c00" />
 
